@@ -37,7 +37,7 @@ been already seen in the data
 - Create a view based on the rows of the routes tables OR if the volume of the 
 data is not overwhelming, create a table and duplicate this data.  
 
-[possible diagram](/NDF.pdf)
+[possible diagram](https://github.com/joseangel-sc/NFD/blob/main/NFD.pdf)
 
 
 as of 24/04/2022 NFD only gets the routes from a given dictionary and 
