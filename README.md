@@ -2,7 +2,7 @@
 
 NOTE: I use 'Fungible' as a synonym of 'Trustable' cause no body knows what it really means. 
  
-Many times we seal with json data that we don't have control over, for example one day, an API from which we need information returns data that looks like this: 
+Many times we deal with json data that we don't have control over, for example one day, an API from which we need information returns data that looks like this: 
 ```
 [{'a': 1, 'b'2}, {'a': 2, 'b': 5, 'c': 6}]
 ```
