@@ -1,5 +1,5 @@
 test:
-	pytest -s
+	pytest -s -vvv
 
 build_dev:
 	docker build -t nfd .
